@@ -65,7 +65,7 @@ if __name__ == "__main__":
     reverse()
   elif command == "copy":
     copy()
-  elif command == "duplicate_contents":
+  elif command == "duplicate-contents":
     duplicate_contents()
-  elif command == "replace_string":
+  elif command == "replace-string":
     replace_string()
